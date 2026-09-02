@@ -18,10 +18,6 @@ The system was evaluated on 30 construction-site sequences from the Hilti × Tri
 * `poster.pdf` – Project poster
 * `report.pdf` – Final project report
 
-## Results
 
-Project outputs, reconstruction examples, videos, and visualizations are available here:
-
-**Google Drive:** [https://drive.google.com/drive/folders/1fJcBn3EChJWzjNP8ybdHceVvIYKU4GO4]
 
 
